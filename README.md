@@ -24,7 +24,6 @@ The project uses the MNIST dataset:
 - 28×28 grayscale images  
 - 10 classes (digits 0–9)
 
-Source: http://yann.lecun.com/exdb/mnist/
 
 ---
 
